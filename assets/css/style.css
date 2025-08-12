@@ -521,6 +521,8 @@ footer .footer-container aside.website-sidebar {
   }
 }
 footer .footer-container .website-info .website-title {
+  text-transform: uppercase;
+  font-size: 30px;
   color: #ffffff;
 }
 footer .footer-container .website-info .website-description {
